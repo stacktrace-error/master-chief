@@ -1,0 +1,7 @@
+name: "master-chief"
+displayName: "Master chief? Do you mind telling me why you're in that unit?"
+author: "NullPointerException/stacktrace-error"
+description: "Sir, *mines copper*"
+version:0
+minGameVersion: 126
+hidden: true
